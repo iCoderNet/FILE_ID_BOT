@@ -1,0 +1,44 @@
+{
+    "uz":{
+        "start":"📥 Fayl yuklang va ID raqam oling\n\n🆔 raqamni yuboring va faylni yuklab oling\n\n🔗 Faylni link ko'rinishiga olib o'tmoqchi bo'lsangiz @file2link_probot dan foydalaning",
+        "id":"✅ Yuqoridagi FAYLning ID raqami",
+        "error":"Nimadir xato ketdi, qayta urinib ko‘ring",
+        "inline":"↗️ Inline tugmadan foydalanish",
+        "empty":"Bunday 🆔 raqam ostida fayl mavjud emas"
+    },
+    "ru":{
+        "start":"📥 Загрузите файл и получите идентификационный номер\n\n🆔 отправьте номер и загрузите файл\n\n🔗 Если вы хотите переместить файл в просмотр по ссылке, используйте @file2link_probot",
+        "id":"✅ Идентификатор файла выше",
+        "error":"Что-то пошло не так. Пожалуйста, попробуйте еще раз",
+        "inline":"↗️ Использование встроенной кнопки",
+        "empty":"Файла под этим 🆔 номером нет "
+    },
+    "en":{
+        "start":"📥 Upload file and get ID number\n\n🆔 send number and download file\n\n🔗 If you want to move file to link view use @file2link_probot",
+        "id":"✅ The ID number of the FILE above",
+        "error":"Something went wrong, please try again",
+        "inline":"↗️ Inline button usage",
+        "empty":"There is no file under this number 🆔"
+    },
+    "ar":{
+        "start":"📥 قم بتحميل الملف واحصل على رقم المعرف \n\n🆔 أرسل الرقم وقم بتنزيل الملف \n\n🔗 إذا كنت تريد نقل الملف لربط العرض ، استخدم @file2link_probot",
+        "id":"✅ رقم معرف الملف أعلاه",
+        "error": "حدث خطأ ما. أعد المحاولة من فضلك",
+        "inline":"↗️ استخدام زر مضمن",
+        "empty":"لا يوجد ملف تحت هذا الرقم معرّف"
+    },
+    "in":{
+        "start":"📥 फ़ाइल अपलोड करें और आईडी नंबर प्राप्त करें\n\n🆔 नंबर भेजें और फ़ाइल डाउनलोड करें\n\n🔗 अगर आप फ़ाइल को लिंक व्यू में ले जाना चाहते हैं तो @file2link_probot का उपयोग करें",
+        "id":"✅ उपरोक्त फ़ाइल की आईडी संख्या",
+        "error":"कुछ गलत हो गया, कृपया फिर से प्रयास करें",
+        "inline":"↗️ इनलाइन बटन का प्रयोग करें",
+        "empty":"इस नंबर आईडी के तहत कोई फाइल नहीं है"
+    },
+    "tr":{
+        "start":"📥 Dosyayı yükleyin ve kimlik numarasını alın\n\n🆔 numarayı gönderin ve dosyayı indirin\n\n🔗 Dosyayı bağlantı görünümüne taşımak istiyorsanız @file2link_probot kullanın",
+        "id":"✅ Yukarıdaki DOSYA'nın kimlik numarası",
+        "error":"Bir şeyler ters gitti lütfen tekrar deneyin",
+        "inline":"↗️ Satır içi düğmesini kullanın",
+        "empty":"Bu numara kimliği altında dosya yok"
+    }
+}
